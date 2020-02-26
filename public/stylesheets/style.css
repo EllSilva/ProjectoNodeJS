@@ -1,0 +1,54 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.table thead td tr {
+    font-weight: bold;
+    
+}
+
+.table thead tr td{
+    font-weight: bold;
+    color: #DCDCDC;
+}
+
+.table thead tr {
+   background-color: #4F4F4F;
+}
+
+.tabela-responsiva{
+    width: 100%;
+  overflow: scroll;
+}
+
+.botao-home{
+    margin-bottom: 50px;
+}
+
+#formCadastro{
+    margin-bottom: 50px;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}
+
+.botao-pesquisa{
+    clear: both;
+} 
+
+.pesquisar{
+    width: 75%;
+}
+
+.botao-pesquisa .btn{
+float: right;
+    
+} 
+.botao-pesquisa input[name=nome]{
+float: left;
+    
+} 
